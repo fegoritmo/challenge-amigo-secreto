@@ -1,6 +1,6 @@
 <h1>CHALLENGE ALURA LATAM: Amigo secreto</h1>
 
-[![Static Badge](https://img.shields.io/badge/Estado-Completo-Green)](https://fegoritmo.github.io/challenge-amigo-secreto_esp-main/)
+[![Static Badge](https://img.shields.io/badge/Estado-Completo-Green)](https://fegoritmo.github.io/challenge-amigo-secreto/)
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-8A2BE2)](LICENSE.md)
 
 ## ✍️ Descripción del proyecto
@@ -18,7 +18,7 @@ Este proyecto tiene como objetivo demostrar la aplicación práctica de las habi
 <img width="772" height="634" alt="image" src="https://github.com/user-attachments/assets/108a6851-1e57-4858-acd5-9ad46a977d7a" />
 
 ## 📂 Acceso al proyecto
-[Descargar código fuente](https://github.com/fegoritmo/challenge-amigo-secreto_esp-main/archive/refs/heads/main.zip).
+[Descargar código fuente](https://github.com/fegoritmo/challenge-amigo-secreto/archive/refs/heads/main.zip).
 
 Después de descargar el proyecto, podrás abrirlo en el editor VS Code o editor de preferencia.
 
@@ -26,9 +26,9 @@ Para ejecutarlo localmente:
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/fegoritmo/challenge-amigo-secreto_esp-main.git
+   git clone https://github.com/fegoritmo/challenge-amigo-secreto.git
    ```
-2. Abre la carpeta `challenge-amigo-secreto_esp-main`.
+2. Abre la carpeta `challenge-amigo-secreto`.
 3. Abre el archivo `index.html` en tu navegador favorito.
 
 ## 👥 Personas desarrolladoras del proyecto
