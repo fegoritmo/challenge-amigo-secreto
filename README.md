@@ -7,9 +7,11 @@
 Este proyecto tiene como objetivo demostrar la aplicación práctica de las habilidades y conocimientos de lógica de programación adquiridos a través del curso impartido por Alura Latam.
 
 ## :hammer: Funcionalidades del proyecto
-- `agregarAmigo()`: Captura los valores registrados en el campo con id="amigo" y los almacena en un array llamado "amigos".
-- `mostrarListaAmigos()`: Muestra la lista de amigos agregados, exhibiendolos en el HTML por medio de una lista "ul" con id="listaAmigos".
-- `sortearAmigo()`: Sortea un amigo aleatoriamente, agregando el resultado a una lista "ul" con id="resultado".
+✅ Agregar Amigo: Captura los valores registrados en el campo con id="amigo" y los almacena en un array llamado "amigos".
+
+✅ Mostrar Lista Amigos: Muestra la lista de amigos agregados, exhibiendolos en el HTML por medio de una lista "ul" con id="listaAmigos".
+
+✅ Sortear Amigo: Sortea un amigo aleatoriamente, agregando el resultado a una lista "ul" con id="resultado".
 
 ### Listado de amigos
 <img width="779" height="738" alt="image" src="https://github.com/user-attachments/assets/c2c60fdb-6c75-457c-b331-2613caf53067" />
